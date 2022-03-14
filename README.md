@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Madiar7
-- 👀 I’m interested in Psychology, chess, general semantics, anime 
-- 🌱 I’m currently learning InEU
+- 👋 Hi, I’m Madiar Zhumadil, Travel Manager
+- 👀 I’m interested in Psychology, chess, general semantics, anime
+- 🌱 I’m currently learning FrontEnd developer 
+My instagram: https://www.instagram.com/madiar7/
+
 
 
 <!---
